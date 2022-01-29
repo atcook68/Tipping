@@ -13,4 +13,7 @@
     <color name="dark_teal">#599486</color>
     <color name="dark_green">#4E9156</color>
     <color name="background_light_green">#E8FFE8</color>
+
+    <color name="color_worst_tip">#ff2724</color>
+    <color name="color_best_tip">#5eff36</color>
 </resources>
